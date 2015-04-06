@@ -1,2 +1,1 @@
-# Python-Programs
-Sample Python programs
+This is a Repo for created python programs!
