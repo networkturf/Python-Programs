@@ -1,4 +1,4 @@
-'''This is simple python program to create a database of switch name and its corresponding switchport name'''
+'''This is a simple python program to create a database of switch name and its corresponding switchport name'''
 print "This programs will create a switchport list based on the switch name \
 which you enter"
 
